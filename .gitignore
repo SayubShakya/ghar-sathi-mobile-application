@@ -1,0 +1,118 @@
+# ==========================
+# OS & Editor Files
+# ==========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+*.swp
+*.swo
+*.log
+*.tmp
+*.bak
+*.class
+
+# ==========================
+# IDE / Editor Folders
+# ==========================
+.idea/
+.vscode/
+.atom/
+.history/
+.svn/
+.swiftpm/
+
+# ==========================
+# Flutter & Dart
+# ==========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+migrate_working_dir/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# ==========================
+# Android
+# ==========================
+android/.gradle/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+android/key.properties
+*.keystore
+*.jks
+
+# ==========================
+# iOS
+# ==========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+DerivedData/
+
+# ==========================
+# Web
+# ==========================
+web/.dart_tool/
+web/build/
+
+# ==========================
+# Windows
+# ==========================
+windows/runner/Debug/
+windows/runner/Release/
+windows/.vs/
+*.pdb
+
+# ==========================
+# macOS
+# ==========================
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Runner/GeneratedPluginRegistrant.swift
+*.xcuserdata/
+DerivedData/
+
+# ==========================
+# Linux
+# ==========================
+linux/flutter/ephemeral/
+linux/build/
+
+# ==========================
+# Obfuscation & Symbolication
+# ==========================
+app.*.map.json
+app.*.symbols
+
+# ==========================
+# Miscellaneous
+# ==========================
+*.lock
+*.zip
+*.tar
+*.gz
+*.7z
+*.apk
+*.aab
+*.ipa
+
+# ==========================
+# End of File
+# ==========================
