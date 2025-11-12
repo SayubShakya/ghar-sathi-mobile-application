@@ -63,14 +63,3 @@ Keyword searches such as **"room rent in Kathmandu"**, **"office space for rent"
 
 ## 🧭 Summary
 **Ghar Sathi** is a **one-stop digital solution** to list, search, and manage rental properties like rooms, offices, and warehouses across Nepal.
-
-It:
-- Connects **seekers directly with owners**.
-- Offers **intelligent search filters**.
-- Enables **secure online rent payments**.
-- Simplifies the rental process for **students, professionals, landlords, and entrepreneurs** alike.
-
----
-
-**MVP Title:** *Ghar Sathi – The Smart Space Rental Sathi*  
-**App Title:** *Ghar Sathi*
